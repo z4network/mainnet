@@ -1,5 +1,15 @@
 {
   "name": "Z4 TOKEN",
   "symbol": "Z4TOKEN",
-  "uri": "https://raw.githubusercontent.com/z4network/mainnet/refs/heads/main/z4token/metadata.json"
+  "description": "A universal stable token designed for a wide range of payment scenarios",
+  "image": "https://raw.githubusercontent.com/z4network/mainnet/refs/heads/main/z4token/z4token.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "z4token.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
 }
