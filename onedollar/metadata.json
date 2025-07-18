@@ -1,6 +1,6 @@
 {
   "name": "One Dollar",
-  "symbol": "OneDollar",
+  "symbol": "DOR",
   "description": "A universal stablecoin designed for a wide range of payment scenarios",
   "image": "https://raw.githubusercontent.com/z4network/mainnet/refs/heads/main/onedollar/onedollar.png",
   "properties": {
