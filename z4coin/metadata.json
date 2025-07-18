@@ -1,12 +1,6 @@
 {
   "name": "Z4 COIN",
   "symbol": "Z4COIN",
-  "uri": "https://raw.githubusercontent.com/z4network/mainnet/refs/heads/main/z4coin/metadata.json"
-}
-
-{
-  "name": "Z4 COIN",
-  "symbol": "Z4COIN",
   "description": "A universal stablecoin designed for a wide range of payment scenarios",
   "image": "https://raw.githubusercontent.com/z4network/mainnet/refs/heads/main/z4coin/z4coin.png",
   "properties": {
