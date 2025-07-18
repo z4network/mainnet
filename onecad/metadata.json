@@ -1,0 +1,15 @@
+{
+  "name": "One Canadian Dollar",
+  "symbol": "CAD",
+  "description": "A universal stablecoin designed for a wide range of payment scenarios",
+  "image": "https://raw.githubusercontent.com/z4network/mainnet/refs/heads/main/onecad/onecad.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "onecad.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
